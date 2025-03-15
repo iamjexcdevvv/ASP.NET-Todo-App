@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:views\\todoentries\\deletetodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|d:\\backend\\webapplication1\\views\\todoentries\\edittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:views\\todoentries\\edittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|d:\\backend\\webapplication1\\views\\todoentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:views\\todoentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,12 +15,8 @@
       "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:controllers\\todoentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|d:\\backend\\webapplication1\\views\\todoentries\\taskform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:views\\todoentries\\taskform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|d:\\backend\\webapplication1\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|d:\\backend\\webapplication1\\views\\todoentries\\edittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADEB2DA-9F73-4A3F-9BD6-BA0F0C19FFAA}|WebApplication1.csproj|solutionrelative:views\\todoentries\\edittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,74 +40,48 @@
               "RelativeDocumentMoniker": "Views\\TodoEntries\\DeleteTodo.cshtml",
               "ToolTip": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\DeleteTodo.cshtml",
               "RelativeToolTip": "Views\\TodoEntries\\DeleteTodo.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T10:54:28.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditTodo.cshtml",
-              "DocumentMoniker": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\EditTodo.cshtml",
-              "RelativeDocumentMoniker": "Views\\TodoEntries\\EditTodo.cshtml",
-              "ToolTip": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\EditTodo.cshtml",
-              "RelativeToolTip": "Views\\TodoEntries\\EditTodo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T10:17:29.51Z",
+              "WhenOpened": "2025-03-15T02:38:03.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TodoEntriesController.cs",
-              "DocumentMoniker": "D:\\backend\\WebApplication1\\Controllers\\TodoEntriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TodoEntriesController.cs",
-              "ToolTip": "D:\\backend\\WebApplication1\\Controllers\\TodoEntriesController.cs",
-              "RelativeToolTip": "Controllers\\TodoEntriesController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:08:53.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "D:\\backend\\WebApplication1\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "Models\\Todo.cs",
-              "ToolTip": "D:\\backend\\WebApplication1\\Models\\Todo.cs",
-              "RelativeToolTip": "Models\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T08:55:14.381Z",
+              "Title": "EditTodo.cshtml",
+              "DocumentMoniker": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\EditTodo.cshtml",
+              "RelativeDocumentMoniker": "Views\\TodoEntries\\EditTodo.cshtml",
+              "ToolTip": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\EditTodo.cshtml",
+              "RelativeToolTip": "Views\\TodoEntries\\EditTodo.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T02:37:30.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TodoEntriesController.cs",
+              "DocumentMoniker": "D:\\backend\\WebApplication1\\Controllers\\TodoEntriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoEntriesController.cs",
+              "ToolTip": "D:\\backend\\WebApplication1\\Controllers\\TodoEntriesController.cs",
+              "RelativeToolTip": "Controllers\\TodoEntriesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:31:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TodoEntries\\Index.cshtml",
               "ToolTip": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\Index.cshtml",
               "RelativeToolTip": "Views\\TodoEntries\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T08:39:11.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskForm.cshtml",
-              "DocumentMoniker": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\TaskForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\TodoEntries\\TaskForm.cshtml",
-              "ToolTip": "D:\\backend\\WebApplication1\\Views\\TodoEntries\\TaskForm.cshtml",
-              "RelativeToolTip": "Views\\TodoEntries\\TaskForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T08:33:39.282Z",
+              "WhenOpened": "2025-03-15T02:24:50.388Z",
               "EditorCaption": ""
             }
           ]

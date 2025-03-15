@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZRuSuYUmEU9R5ChllQmdj694US7UKzplV46fYPxPXvs=",
+  "Hash": "HRxGOHFeTOFixhF44ygL1q+ISV7MaOxNDIApe08uqXk=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -2724,6 +2724,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\backend\\WebApplication1\\wwwroot\\resources\\clipboard-list.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "resources/clipboard-list#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "exydkph25a",
+      "Integrity": "EhruC8+IOtgHOyEOAuT3LLKBxIg9YiP7gmdhjX5cYEM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resources\\clipboard-list.png"
     }
   ],
   "Endpoints": [
@@ -21282,6 +21303,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
+        }
+      ]
+    },
+    {
+      "Route": "resources/clipboard-list.exydkph25a.png",
+      "AssetFile": "D:\\backend\\WebApplication1\\wwwroot\\resources\\clipboard-list.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EhruC8+IOtgHOyEOAuT3LLKBxIg9YiP7gmdhjX5cYEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 02:16:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exydkph25a"
+        },
+        {
+          "Name": "label",
+          "Value": "resources/clipboard-list.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EhruC8+IOtgHOyEOAuT3LLKBxIg9YiP7gmdhjX5cYEM="
+        }
+      ]
+    },
+    {
+      "Route": "resources/clipboard-list.png",
+      "AssetFile": "D:\\backend\\WebApplication1\\wwwroot\\resources\\clipboard-list.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EhruC8+IOtgHOyEOAuT3LLKBxIg9YiP7gmdhjX5cYEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 02:16:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EhruC8+IOtgHOyEOAuT3LLKBxIg9YiP7gmdhjX5cYEM="
         }
       ]
     },
